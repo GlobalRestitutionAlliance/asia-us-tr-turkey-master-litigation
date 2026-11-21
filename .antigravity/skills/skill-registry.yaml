@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: turkeyan-restitution-roadmap-and-qsf-trust-execution
-  name: Turkeyan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/turkeyan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_tr_001
+    name: Turkey Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_002
+    name: Turkey Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_003
+    name: Turkey Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_004
+    name: Turkey Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_005
+    name: Turkey Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_006
+    name: Turkey Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_007
+    name: Turkey Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_008
+    name: Turkey Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_009
+    name: Turkey Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_010
+    name: Turkey Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_011
+    name: Turkey Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_012
+    name: Turkey Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_013
+    name: Turkey Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_014
+    name: Turkey Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_015
+    name: Turkey Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_016
+    name: Turkey Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_017
+    name: Turkey Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_018
+    name: Turkey Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_019
+    name: Turkey Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_020
+    name: Turkey Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_021
+    name: Turkey Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_022
+    name: Turkey Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_023
+    name: Turkey Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_024
+    name: Turkey Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_025
+    name: Turkey Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_026
+    name: Turkey Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_027
+    name: Turkey Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_028
+    name: Turkey Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_029
+    name: Turkey Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_030
+    name: Turkey Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_031
+    name: Turkey Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_032
+    name: Turkey Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_033
+    name: Turkey Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_034
+    name: Turkey Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_035
+    name: Turkey Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_036
+    name: Turkey Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_037
+    name: Turkey Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_038
+    name: Turkey Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_039
+    name: Turkey Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_040
+    name: Turkey Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_041
+    name: Turkey Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_042
+    name: Turkey Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_043
+    name: Turkey Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_044
+    name: Turkey Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_045
+    name: Turkey Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_046
+    name: Turkey Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_047
+    name: Turkey Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_048
+    name: Turkey Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_049
+    name: Turkey Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_050
+    name: Turkey Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_051
+    name: Turkey Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_052
+    name: Turkey Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_053
+    name: Turkey Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_054
+    name: Turkey Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_055
+    name: Turkey Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_056
+    name: Turkey Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_057
+    name: Turkey Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_058
+    name: Turkey Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_059
+    name: Turkey Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_060
+    name: Turkey Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_061
+    name: Turkey Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_062
+    name: Turkey Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_063
+    name: Turkey Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_064
+    name: Turkey Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_065
+    name: Turkey Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_066
+    name: Turkey Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_067
+    name: Turkey Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_068
+    name: Turkey Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_069
+    name: Turkey Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_070
+    name: Turkey Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_071
+    name: Turkey Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_072
+    name: Turkey Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_073
+    name: Turkey Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_074
+    name: Turkey Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_075
+    name: Turkey Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_076
+    name: Turkey Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_077
+    name: Turkey Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_078
+    name: Turkey Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_079
+    name: Turkey Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_080
+    name: Turkey Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_081
+    name: Turkey Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_082
+    name: Turkey Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_083
+    name: Turkey Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_084
+    name: Turkey Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_085
+    name: Turkey Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_086
+    name: Turkey Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_087
+    name: Turkey Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_088
+    name: Turkey Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_089
+    name: Turkey Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_090
+    name: Turkey Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_091
+    name: Turkey Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_092
+    name: Turkey Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_093
+    name: Turkey Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_094
+    name: Turkey Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_095
+    name: Turkey Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_096
+    name: Turkey Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_097
+    name: Turkey Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_098
+    name: Turkey Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_099
+    name: Turkey Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_100
+    name: Turkey Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_101
+    name: Turkey Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_102
+    name: Turkey Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_103
+    name: Turkey Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_104
+    name: Turkey Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_105
+    name: Turkey Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_106
+    name: Turkey Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_107
+    name: Turkey Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_108
+    name: Turkey Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_109
+    name: Turkey Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_110
+    name: Turkey Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_111
+    name: Turkey Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_112
+    name: Turkey Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_113
+    name: Turkey Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_114
+    name: Turkey Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_115
+    name: Turkey Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_116
+    name: Turkey Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_117
+    name: Turkey Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_118
+    name: Turkey Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_119
+    name: Turkey Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_120
+    name: Turkey Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_121
+    name: Turkey Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_122
+    name: Turkey Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_123
+    name: Turkey Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_124
+    name: Turkey Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_125
+    name: Turkey Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_126
+    name: Turkey Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_127
+    name: Turkey Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_128
+    name: Turkey Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_129
+    name: Turkey Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_130
+    name: Turkey Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_131
+    name: Turkey Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_132
+    name: Turkey Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_133
+    name: Turkey Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_134
+    name: Turkey Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_135
+    name: Turkey Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_136
+    name: Turkey Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_137
+    name: Turkey Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_138
+    name: Turkey Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_139
+    name: Turkey Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_140
+    name: Turkey Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_141
+    name: Turkey Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_142
+    name: Turkey Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_143
+    name: Turkey Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_144
+    name: Turkey Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_145
+    name: Turkey Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_146
+    name: Turkey Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_147
+    name: Turkey Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_148
+    name: Turkey Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_149
+    name: Turkey Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_150
+    name: Turkey Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_151
+    name: Turkey Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_152
+    name: Turkey Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_153
+    name: Turkey Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_154
+    name: Turkey Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_155
+    name: Turkey Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_156
+    name: Turkey Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_157
+    name: Turkey Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_158
+    name: Turkey Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_159
+    name: Turkey Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_160
+    name: Turkey Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_161
+    name: Turkey Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_162
+    name: Turkey Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_163
+    name: Turkey Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_164
+    name: Turkey Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_165
+    name: Turkey Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_166
+    name: Turkey Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_167
+    name: Turkey Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_168
+    name: Turkey Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_169
+    name: Turkey Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_170
+    name: Turkey Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_171
+    name: Turkey Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_172
+    name: Turkey Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_173
+    name: Turkey Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_174
+    name: Turkey Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_175
+    name: Turkey Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_176
+    name: Turkey Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_177
+    name: Turkey Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_178
+    name: Turkey Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_179
+    name: Turkey Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_180
+    name: Turkey Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_181
+    name: Turkey Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_182
+    name: Turkey Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_183
+    name: Turkey Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_184
+    name: Turkey Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_185
+    name: Turkey Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_186
+    name: Turkey Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_187
+    name: Turkey Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_188
+    name: Turkey Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_189
+    name: Turkey Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_190
+    name: Turkey Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_191
+    name: Turkey Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_192
+    name: Turkey Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_193
+    name: Turkey Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_194
+    name: Turkey Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_195
+    name: Turkey Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_196
+    name: Turkey Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_197
+    name: Turkey Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_198
+    name: Turkey Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_199
+    name: Turkey Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_200
+    name: Turkey Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_201
+    name: Turkey Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_202
+    name: Turkey Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_203
+    name: Turkey Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_204
+    name: Turkey Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_205
+    name: Turkey Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_206
+    name: Turkey Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_207
+    name: Turkey Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_208
+    name: Turkey Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_209
+    name: Turkey Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_210
+    name: Turkey Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_211
+    name: Turkey Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_212
+    name: Turkey Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_213
+    name: Turkey Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_214
+    name: Turkey Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_215
+    name: Turkey Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_216
+    name: Turkey Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_217
+    name: Turkey Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_218
+    name: Turkey Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_219
+    name: Turkey Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_220
+    name: Turkey Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_221
+    name: Turkey Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_222
+    name: Turkey Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_223
+    name: Turkey Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_224
+    name: Turkey Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_225
+    name: Turkey Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_226
+    name: Turkey Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_227
+    name: Turkey Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_228
+    name: Turkey Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_229
+    name: Turkey Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_230
+    name: Turkey Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_231
+    name: Turkey Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_232
+    name: Turkey Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_233
+    name: Turkey Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_234
+    name: Turkey Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_235
+    name: Turkey Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_236
+    name: Turkey Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_237
+    name: Turkey Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_238
+    name: Turkey Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_239
+    name: Turkey Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_240
+    name: Turkey Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_241
+    name: Turkey Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_242
+    name: Turkey Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_243
+    name: Turkey Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_244
+    name: Turkey Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_245
+    name: Turkey Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_246
+    name: Turkey Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_247
+    name: Turkey Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_248
+    name: Turkey Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_249
+    name: Turkey Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_250
+    name: Turkey Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_251
+    name: Turkey Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tr_252
+    name: Turkey Skill 252
+    status: ACTIVE_SCAFFOLD
