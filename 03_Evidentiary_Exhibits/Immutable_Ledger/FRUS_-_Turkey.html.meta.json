@@ -1,0 +1,17 @@
+{
+  "url": "https://history.state.gov/countries/turkey",
+  "final_url": "https://history.state.gov/countries/turkey",
+  "title": "FRUS - Turkey",
+  "fetched_at": "2026-11-23T15:27:25.873474Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 25260,
+  "sha256": "653fe4e4ca910bafaad91a148eb02e836998e506d90f8ed40747ed821db9cca2",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
